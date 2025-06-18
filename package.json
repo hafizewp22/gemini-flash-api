@@ -14,5 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafizewp22/gemini-flash-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hafizewp22/gemini-flash-api/issues"
+  },
+  "homepage": "https://github.com/hafizewp22/gemini-flash-api#readme",
   "description": ""
 }
